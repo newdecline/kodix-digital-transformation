@@ -1,0 +1,46 @@
+.timer {
+  width: 300px;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: #3a97ff;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 20px;
+}
+.counter {
+  margin: 0 0 10px 0;
+}
+.buttons__btn {
+  margin-right: 10px;
+  padding: 5px 15px;
+  font-size: 20px;
+  box-sizing: border-box;
+  border: 0;
+  background-color: rgba(55, 175, 255, 0.4);
+  color: #fff;
+  border-radius: 5px;
+  transition: background-color .3s;
+}
+.buttons__btn:hover {
+  cursor: pointer;
+  background-color: rgba(55, 175, 255, 0.8);
+}
+.interval {
+  width: 300px;
+  padding: 20px;
+  margin: 0 auto 15px auto;
+  background-color: #3a97ff;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 20px;
+}
+.interval__input {
+  border: 0;
+  width: 100%;
+  display: block;
+  padding: 0;
+  border-radius: 5px;
+  font-size: 20px;
+}
